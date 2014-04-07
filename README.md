@@ -1,4 +1,4 @@
-##MetaDuino: An Arduino metal detecting project for use with Processing.
+##MetalDuino: An Arduino metal detecting project for use with Processing.
 
 I've played with metal detector circuits in the past but never got around to building anything really sophisticated. So, recently, I decided to spend a little time getting around to doing it. My goal was to build a simple detector I could connect to an Arduino circuit to send data to a Processing program on a PC or Android device. It's now working so I decided to put the project on GitHub in case anyone else needs help doing the same.
 
